@@ -1,0 +1,10 @@
+,metric,loss_func,metr
+0,<function r2_sc at 0x0000019C47879550>,<keras.losses.MeanSquaredError object at 0x0000019C3093F5B0>,0.7160137436233902
+1,<function r2_sc at 0x0000019C47879550>,<keras.losses.MeanAbsoluteError object at 0x0000019C2711E280>,0.5963670810054486
+2,<function r2_sc at 0x0000019C47879550>,<keras.losses.MeanSquaredLogarithmicError object at 0x0000019C2711EF70>,-61.95817028036451
+3,"MeanSquaredError(name=mean_squared_error,dtype=float32)",<keras.losses.MeanSquaredError object at 0x0000019C2E817610>,0.710993094336219
+4,"MeanSquaredError(name=mean_squared_error,dtype=float32)",<keras.losses.MeanAbsoluteError object at 0x0000019C20465490>,0.629947818333627
+5,"MeanSquaredError(name=mean_squared_error,dtype=float32)",<keras.losses.MeanSquaredLogarithmicError object at 0x0000019C1CBB1700>,-33.08050350334345
+6,"MeanAbsoluteError(name=mean_absolute_error,dtype=float32)",<keras.losses.MeanSquaredError object at 0x0000019C24C223D0>,0.7041118810954049
+7,"MeanAbsoluteError(name=mean_absolute_error,dtype=float32)",<keras.losses.MeanAbsoluteError object at 0x0000019C24BA2A00>,0.6165191715721055
+8,"MeanAbsoluteError(name=mean_absolute_error,dtype=float32)",<keras.losses.MeanSquaredLogarithmicError object at 0x0000019C30932D90>,-17.080352398488465
